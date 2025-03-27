@@ -59,7 +59,8 @@ button:hover {
 
 #currentAge {
   text-align: center;
-  font-size: 24px;
+  font-size: 4px;
   font-weight: bold;
   color: #333;
+  margin-top: 360px;
 }

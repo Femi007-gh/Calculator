@@ -56,10 +56,3 @@ button {
 button:hover {
   background-color: #0056b3;
 }
-
-#currentAge {
-  text-align: center;
-  font-size: 24px;
-  font-weight: bold;
-  color: #333;
-}

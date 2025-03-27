@@ -57,9 +57,8 @@ button:hover {
   background-color: #0056b3;
 }
 
-#currentAge {
-  text-align: center;
-  font-size: 24px;
-  font-weight: bold;
-  color: #333;
 }
+#currentAge {
+ 
+  color: #333;
+  margin-top: 360px;
